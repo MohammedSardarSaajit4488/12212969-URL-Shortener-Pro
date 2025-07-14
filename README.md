@@ -2,6 +2,9 @@
 
 A comprehensive URL shortener web application built with React, TypeScript, and Material-UI. This project demonstrates modern web development practices with a focus on user experience and functionality.
 
+![Preview](https://github.com/MohammedSardarSaajit4488/12212969-URL-Shortener-Pro/blob/main/media.png?raw=true)
+
+
 ## 🚀 Features
 
 ### Core Functionality
